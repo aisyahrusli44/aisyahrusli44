@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="[https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge](https://aisyahportfolio-ten.vercel.app/)" alt="Portfolio">
+    <img src="aisyahportfolio-ten.vercel.app" alt="Portfolio">
   </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
