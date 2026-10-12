@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./downloads/aisyah-banner.png" width="100%" alt="Aisyah's GitHub profile banner">
+  <img src="./aisyah-banner.png" width="100%" alt="Aisyah's GitHub profile banner">
 </p>
+
 
 <p align="center">
   Passionate about technology, continuous learning, and creating innovative solutions to real-world problems.
