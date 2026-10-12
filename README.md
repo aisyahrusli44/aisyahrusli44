@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="aisyah-banner.png" width="100%" alt="Aisyah's GitHub profile banner">
+  <img src="./aisyah-banner.png" width="100%" alt="Aisyah's GitHub profile banner">
 </p>
 
 <p align="center">
