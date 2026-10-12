@@ -6,17 +6,19 @@
   Passionate about technology, continuous learning and creating innovative solutions to real-world problems.
 </p>
 
+
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="aisyahportfolio-ten.vercel.app" alt="Portfolio">
+  <a href="https://aisyahportfolio-ten.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/aisyah-rusli" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="YOUR_RESUME_URL">
-    <img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge" alt="Resume">
+  <a href="https://drive.google.com/file/d/1Ijg75fsED5yd00ujGiPuQfUCXNiBNYJG/view" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
   </a>
 </p>
+
 
 ### 📌 Currently
 
