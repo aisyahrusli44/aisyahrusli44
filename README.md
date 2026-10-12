@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="aisyah-banner.png" width="100%" alt="Aisyah's GitHub profile banner">
+</p>
 
-<!--
-**aisyahrusli44/aisyahrusli44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about technology, continuous learning, and creating innovative solutions to real-world problems.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="YOUR_RESUME_URL">
+    <img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge" alt="Resume">
+  </a>
+</p>
