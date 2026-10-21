@@ -22,7 +22,7 @@
 
 ### 📌 Currently
 
-- 🎓 Pursuing a Bachelor's Degree in Software Engineering at UPSI.
+- 🎓 Pursuing a Bachelor of Software Engineering at UPSI.
 - 🚗 Developing UPSI NexRide, a campus ride-sharing mobile application.
 - 🌱 Exploring new technologies and improving my technical skills.
 - 💼 Open to internship opportunities and professional growth.
