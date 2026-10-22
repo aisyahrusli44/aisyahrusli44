@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/aisyah-rusli" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/file/d/1wqVq0qEf_N_ml4L8wEqWbVQe2Ll9UgK9/view?usp=drivesdk="_blank">
+  <a href="https://drive.google.com/file/d/1_d8n1kL5YNjKU0etEAhCLki8lRRpXChk/view?usp=drivesdk="_blank">
     <img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
   </a>
 </p>
